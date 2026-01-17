@@ -11,7 +11,7 @@ Projeto desenvolvido para consolidar fundamentos de Java back-end, aplicando con
 - Tratamento de erros e excecoes
 - Manipulacao de arquivos com java.io
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Java
 - GSON
 - API HTTP
