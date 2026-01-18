@@ -1,4 +1,4 @@
-# ScreenMatch — Aplicacao Java com POO e Consumo de API
+# Aplicacao Java com POO e Consumo de API
 
 Projeto desenvolvido para consolidar fundamentos de Java back-end, aplicando conceitos de orientacao a objetos, consumo de API HTTP e manipulacao de dados no formato JSON.
 
